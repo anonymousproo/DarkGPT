@@ -1,6 +1,6 @@
 ![Descripción de la imagen](https://i.imgur.com/bYW6pai.jpg)
 # Installation Guide for DarkGPT Project
-
+anonymous pro 
 DarkGPT is an artificial intelligence assistant based on GPT-4-200K designed to perform queries on leaked databases. This guide will help you set up and run the project on your local environment.
 
 ## Prerequisites
